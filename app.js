@@ -12,7 +12,7 @@ class Star {
         this.x = x;
         this.y = y;
         this.radius = radius;
-        this.speed = speed * 15;
+        this.speed = speed ;
     }
 
     update() {
